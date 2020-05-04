@@ -1,2 +1,2 @@
 # Java_Homework
-repozytorium przezxnacozne do umieszczania zadań z zjaęc programowania z javy
+repozytorium przeznacozne do umieszczania zadań z zajęc programowania w javie
